@@ -53,8 +53,8 @@ making it one of the most popular CI/CD tools in the industry**
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,githubactions,kubernetes,docker,aws,jenkins,linux,git,github,postgres" /><br>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,typescript,nextjs,react,tailwind,graphql" /><br>
+  <img src="https://skillicons.dev/icons?i=go,githubactions,promethus,grafana,gitlab,nexus,kubernetes,docker,aws,jenkins,linux,git,github,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,dotnet,vuejs,typescript,nextjs,react,tailwind,graphql" /><br>
 </div>
 
 <br/>
@@ -63,8 +63,8 @@ making it one of the most popular CI/CD tools in the industry**
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
-  <img width="390" height="390" src="https://github-readme-stats.vercel.app/api?username=Bouchiba43&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="390" height="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouchiba43&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="390" height="390" src="https://github-readme-stats.vercel.app/api?username=kaisoueriemmi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="390" height="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisoueriemmi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
 
 
