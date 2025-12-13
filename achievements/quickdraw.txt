@@ -1,2 +1,0 @@
-This is a dummy file to unlock the Quickdraw achievement.
-Close the PR immediately after opening it!
