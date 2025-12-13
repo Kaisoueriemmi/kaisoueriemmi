@@ -2,6 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Kais+Oueriemmi!;DevOps+Engineer+%7C+SRE;Cloud+%26+Automation+Expert" />
 </div>
 
+<div align="center">
+
+[![Snake Animation](https://github.com/kaisoueriemmi/kaisoueriemmi/actions/workflows/snake.yml/badge.svg)](https://github.com/kaisoueriemmi/kaisoueriemmi/actions/workflows/snake.yml)
+![GitHub last commit](https://img.shields.io/github/last-commit/kaisoueriemmi/kaisoueriemmi?style=flat-square&color=blueviolet)
+![GitHub repo size](https://img.shields.io/github/repo-size/kaisoueriemmi/kaisoueriemmi?style=flat-square&color=blue)
+
+</div>
+
 <h3 align="center">🚀 DevOps Engineer | Cloud Architect | SRE Enthusiast 🚀</h3>
 
 <p align="center">
@@ -16,30 +24,62 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" />
+<div align="center">
+<table align="center">
+<tr>
+<td width="50%">
 
-```yaml
-name: Kais Oueriemmi
-role: DevOps Engineer
-location: Tunisia 🇹🇳
-focus:
-  - Infrastructure as Code (Terraform, Ansible)
-  - CI/CD Pipeline Automation (Jenkins, GitHub Actions)
-  - Container Orchestration (Kubernetes, Docker)
-  - Cloud Infrastructure (AWS)
-  - Monitoring & Observability (Prometheus, Grafana)
-currently_working_on:
-  - Jenkins HA Setup on AWS
-  - Scalable CI/CD Platform Architecture
-  - Infrastructure Automation with Terraform & Packer
-learning:
-  - Advanced Kubernetes Patterns
-  - GitOps with ArgoCD
-  - Cloud-Native Security
-fun_fact: "70% of DevOps teams worldwide rely on Jenkins! 🚀"
+```bash
+# ---------------------------------
+# 💾 SYSTEM INFO: Kais_Oueriemmi
+# ---------------------------------
+
+user: kais
+role: devops_engineer
+location: "Tunisia 🇹🇳"
+uptime: "24/7"
+
+# 🚀 CURRENT MISSION
+focus: [
+  "Jenkins High Availability",
+  "AWS Cloud Architecture",
+  "IaC (Terraform/Ansible)"
+]
+
+# 🛠️ CORE SKILLS
+stack: {
+  cloud: "AWS",
+  container: ["Docker", "K8s"],
+  ci_cd: ["Jenkins", "GitHub Actions"],
+  monitor: ["Prometheus", "Grafana"]
+}
+
+echo "Passionate about automating the world!"
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%">
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding GIF" />
+  </div>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🎖️ Certifications & Badges
+
+<div align="center">
+
+<!-- Replace these links with your actual certification verifications if available -->
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
+<img src="https://img.shields.io/badge/Terraform-Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate" />
+<img src="https://img.shields.io/badge/Jenkins-Certified_Engineer-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Certified" />
+<img src="https://img.shields.io/badge/Kubernetes-CKA_Ready-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA Ready" />
+
+</div>
 
 ---
 
@@ -53,7 +93,7 @@ using **Terraform, Ansible, and Packer** for scalable CI/CD infrastructure
 🌱 **Expanding** expertise in **Infrastructure as Code (IaC)**,  
 **automation**, and **cloud-native DevOps practices**
 
-� **Open to** DevOps/SRE opportunities and **collaborations**
+💼 **Open to** DevOps/SRE opportunities and **collaborations**
 
 💬 **Let's discuss** **Jenkins, Terraform, Ansible, AWS, CI/CD, SRE**,  
 or anything related to **DevOps & cloud infrastructure**
@@ -76,6 +116,9 @@ or anything related to **DevOps & cloud infrastructure**
   <a href="https://github.com/kaisoueriemmi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://hub.docker.com/u/kaisoueriemmi" target="_blank">
+    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
+  </a>
 </div>
 
 ---
@@ -86,15 +129,15 @@ or anything related to **DevOps & cloud infrastructure**
 
 ### 🔧 DevOps & Cloud Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,jenkins,kubernetes,docker,terraform,ansible,linux,git,github,gitlab,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,jenkins,kubernetes,docker,terraform,ansible,linux,bash,git,github,gitlab,githubactions,azure" />
 
 ### 📊 Monitoring & Observability
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana,splunk" />
 
 ### 💻 Programming & Development
 
-<img src="https://skillicons.dev/icons?i=python,go,nodejs,fastapi,typescript,react,nextjs,vuejs,tailwind,graphql,dotnet,postgres" />
+<img src="https://skillicons.dev/icons?i=python,go,nodejs,fastapi,typescript,react,nextjs,vuejs,tailwind,postgresql,mongodb,redis" />
 
 </div>
 
@@ -165,7 +208,7 @@ or anything related to **DevOps & cloud infrastructure**
 
 ### ⚡ Fun Facts About DevOps
 
-- � **70%** of DevOps teams worldwide use Jenkins
+- 🔹 **70%** of DevOps teams worldwide use Jenkins
 - 🔹 **63%** faster time to market with DevOps practices
 - 🔹 **60%** fewer failures with proper CI/CD implementation
 - 🔹 **24x** faster recovery time with automation
